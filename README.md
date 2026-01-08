@@ -16,6 +16,7 @@ Esses desafios ajudam a aprimorar o raciocínio lógico, o domínio de linguagen
 
 ## 💻 Tecnologias Utilizadas
 
+- 💡 Dart
 - 💡 C / C++  
 - 📘 SQL (para problemas de banco de dados)
 
